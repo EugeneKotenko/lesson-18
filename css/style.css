@@ -1,0 +1,51 @@
+.root {
+	font-family: Arial;
+}
+
+.container {
+	max-width: 100%;
+	margin: 0 auto;
+	padding: 0 10px;
+}
+
+.main {
+	display: flex;
+	justify-content: space-between;
+	margin: 15px 0px;
+}
+
+.category {
+	cursor: pointer;
+	margin: 15px 0px;
+}
+
+.product {
+	cursor: pointer;
+}
+
+#order-form {
+	max-width: 400px;
+	align-items: center;
+	position: relative;
+	right: 20px;
+}
+
+.buy-button {
+	color: rgba(red, green, blue, alpha);
+	border-radius: 5px;
+	padding: 5px;
+
+}
+
+.form {
+	position: relative;
+	margin: 5px 0px;
+	width: 400px;
+	border-radius: 5px;
+	resize: none;
+	padding: 5px 5px;
+}
+
+.block {
+	margin: 15px 0px;
+}
